@@ -4,6 +4,7 @@
  */
 
 const certificateRegistry = [
+    { name: " Front-End Development Intern", provider: "Cognifyz Technologies", year: "Jan 2026", file: "assets/cognifyz.PNG" },
     { name: "Google Cloud Generative AI Internship", provider: "Google Cloud", year: "July 2025", file: "assets/Google Cloud Generative AI internship.png" },
     { name: "Crafting Precision Prompts with Generative AI", provider: "IBM SkillsBuild ", year: "June 2025", file: "assets/Crafting Precision Prompts with Generative AI.png" },
     { name: "Introduction to DevOps Tools", provider: "simplilearn", year: "April 2025", file: "assets/Introduction to DevOps Tools.png" },
